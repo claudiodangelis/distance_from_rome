@@ -1,5 +1,5 @@
 name: distance_from_rome
 description: A sample web application
 dependencies:
-  angular: any
+  angular: 0.9.7
   browser: any
