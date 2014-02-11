@@ -1,0 +1,5 @@
+name: distance_from_rome
+description: A sample web application
+dependencies:
+  angular: any
+  browser: any
