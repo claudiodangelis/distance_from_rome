@@ -3,3 +3,4 @@ description: A sample web application
 dependencies:
   angular: 0.9.7
   browser: any
+  unittest: any
